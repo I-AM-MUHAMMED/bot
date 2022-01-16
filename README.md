@@ -1,29 +1,79 @@
-## WhatsApp User Bot
+</a>
+</p>
+<div align="center">
+ <p align="center">
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
+## SETUP
 
-## What is WhatsAsena?
-
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
-
-## Setup
-
-1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) or [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
+<br>
+   <a href="https://replit.com/@Nightbot2O/baileys-qr"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
    <br>
-   <a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   
+<br>
+   <a href="https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/bot"><img src="https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-634988?style=for-the-badge&logo=heroku&logoColor=white">
    <br>
-   <a href="https://chat.whatsapp.com/KA9zgz1gvN03LmwtQTJJZR"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+
+## CONTACT
+
+<br>
+   <a href="www.instagram.com/taurus.efx"><img src="https://img.shields.io/badge/-INSTAGRAM-C00F85?style=for-the-badge&logo=instagram&logoColor=white">
    <br>
-   <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+<br>
+   <a href="www.wa.me/918157849715"><img src="https://img.shields.io/badge/-WHATSAPP-30D14D?style=for-the-badge&logo=whatsapp&logoColor=white">
+   <br>
+<br>
+   <a href="www.t.me/taurus_sir"><img src="https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
+   <br>
+<br>
+   <a href="www.github.com/muhammed-usrbot"><img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white">
+   <br>
 
-<!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+
+
+
+## ABOUT
+
+<br>
+   <a href="%%%%%%%%%%%%%%%%%"><img src="https://img.shields.io/badge/-VISIT OUR SITE-red?style=for-the-badge&logo=&logoColor=black">
+
+
+
+
+
+## MY DEVICE
+
+ <a href=""><img src="https://img.shields.io/badge/-Huawei nova 3i-white?style=for-the-badge&logo=HUAWEI&logoColor=black">
+   <br>
+
+
+
+## ABOUT ME
+
+ **NAME**         - `MUHAMMED`
+
+ **AGE**          - `15 YEAR`
+
+ **COUNTRY**      - `INDIA`
+
+ **STATE**        - `KERALA`
+
+ **DISTRICT**     - `ERNAKULAM`
+
+ **SUB-DISTRICT** - `MUVATTUPUZHA`
+
+ **JOB**          - `STUDYING`
+
+ **CONTACT**     - `918157849715`
+   
+ **LANGUAGE**        - `MALAYALAM,ENGLISH`
+
+
+##### HERE SOME COMMANDS FOR OWNERS
+
+
 
 | Active | Group commands |
 | :----: | :------------- |
@@ -105,7 +155,4 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ☑   | Block/unblock     | Blocks/unblocks members      |
 |   ☑   | Broadcast         | Custom Broadcasting Messages |
 
-## Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
