@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "bot",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -7,7 +7,7 @@
     ],
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "TAURUS_SESSION": {
             "description": "Enter whatsapp web session.",
             "required": true
         },
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "😁,MUHAMMED"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
