@@ -6,7 +6,7 @@
 ## SETUP
 
 <br>
-   <a href="https://replit.com/@Nightbot2O/baileys-qr"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
+   <a href="https://replit.com/@muhammed-userbot/taurus-user-bot"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
    <br>
    
 <br>
