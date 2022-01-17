@@ -21,7 +21,7 @@
    <a href="http://www.instagram.com/taurus.efx"><img src="https://img.shields.io/badge/-INSTAGRAM-C00F85?style=for-the-badge&logo=instagram&logoColor=white">
    <br>
 <br>
-   <a href="http://www.wa.me/918157849715"><img src="https://img.shields.io/badge/-WHATSAPP-30D14D?style=for-the-badge&logo=whatsapp&logoColor=white">
+   <a href="http://wa.me/918157849715"><img src="https://img.shields.io/badge/-WHATSAPP-30D14D?style=for-the-badge&logo=whatsapp&logoColor=white">
    <br>
 <br>
    <a href="http://www.t.me/taurus_sir"><img src="https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
