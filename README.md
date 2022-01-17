@@ -45,7 +45,7 @@
 
 ## MY DEVICE
 
- <a href=""><img src="https://img.shields.io/badge/-Huawei nova 3i-white?style=for-the-badge&logo=HUAWEI&logoColor=black">
+ <a href="https://gadgets.ndtv.com/huawei-nova-3i-5556"><img src="https://img.shields.io/badge/-Huawei nova 3i-white?style=for-the-badge&logo=HUAWEI&logoColor=black">
    <br>
 
 
